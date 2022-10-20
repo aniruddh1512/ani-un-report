@@ -1,1 +1,4 @@
 hi
+we plotted life expectancy over time
+we learned how to use Unix SHell
+We created a new git repo
